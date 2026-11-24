@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0c0806;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+
+.box {
+    background: #E50914;
+    padding: 24px 32px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(217, 9, 9, 0.1);
+    text-align: center;
+}
+
+input {
+    padding: 8px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+
+button {
+    padding: 8px 16px;
+    background: #000000;
+    color:  #E50914;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.hasil {
+    margin-top: 16px;
+    font-weight: bold;
+    color:  #000000;
+}
